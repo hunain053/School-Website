@@ -6,6 +6,7 @@ html {
   scroll-behavior: smooth;
 }
 
+/* use chatgpt to animate */
 @keyframes fadeIn {
   from {
     opacity: 0;
